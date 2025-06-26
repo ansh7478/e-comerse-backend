@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 89.99,
+        "category": "Electronics",
+        "description": "Premium sound with noise cancellation",
+        "icon": "🎧"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone Pro",
+        "price": 699.99,
+        "category": "Electronics",
+        "description": "Triple camera, all-day battery",
+        "icon": "📱"
+    },
+    {
+        "id": 3,
+        "name": "UltraSlim Laptop",
+        "price": 899.99,
+        "category": "Electronics",
+        "description": "Powerful performance in sleek design",
+        "icon": "💻"
+    },
+    {
+        "id": 4,
+        "name": "Smart Watch",
+        "price": 249.99,
+        "category": "Electronics",
+        "description": "Fitness tracking and notifications",
+        "icon": "⌚"
+    },
+    {
+        "id": 5,
+        "name": "Cotton T-Shirt",
+        "price": 24.99,
+        "category": "Clothing",
+        "description": "Soft and comfortable",
+        "icon": "👕"
+    },
+    {
+        "id": 6,
+        "name": "Running Shoes",
+        "price": 89.99,
+        "category": "Footwear",
+        "description": "Lightweight with extra cushioning",
+        "icon": "👟"
+    },
+    {
+        "id": 7,
+        "name": "Coffee Maker",
+        "price": 129.99,
+        "category": "Home",
+        "description": "Brew perfect coffee every morning",
+        "icon": "☕"
+    },
+    {
+        "id": 8,
+        "name": "Bluetooth Speaker",
+        "price": 79.99,
+        "category": "Electronics",
+        "description": "360° immersive sound experience",
+        "icon": "🔊"
+    },
+    {
+        "id": 9,
+        "name": "Desk Lamp",
+        "price": 39.99,
+        "category": "Home",
+        "description": "Adjustable brightness LED lighting",
+        "icon": "💡"
+    },
+    {
+        "id": 10,
+        "name": "Backpack",
+        "price": 59.99,
+        "category": "Accessories",
+        "description": "Water-resistant with laptop compartment",
+        "icon": "🎒"
+    },
+    {
+        "id": 11,
+        "name": "Fitness Tracker",
+        "price": 79.99,
+        "category": "Electronics",
+        "description": "Monitor steps, heart rate, and sleep",
+        "icon": "📟"
+    },
+    {
+        "id": 12,
+        "name": "Yoga Mat",
+        "price": 29.99,
+        "category": "Fitness",
+        "description": "Non-slip eco-friendly material",
+        "icon": "🧘"
+    }
+]
