@@ -1,0 +1,56 @@
+openapi: 3.0.0
+
+info:
+  title: PyShop REST API
+  version: 1.0.0
+  description: Simple E-Commerce REST API using Flask
+
+servers:
+  - url: http://127.0.0.1:5000
+
+paths:
+
+  /products:
+    get:
+      summary: Get all products
+      responses:
+        '200':
+          description: Product list
+
+    post:
+      summary: Add product
+      responses:
+        '201':
+          description: Product created
+
+  /products/{id}:
+    get:
+      summary: Get product by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Product found
+
+    put:
+      summary: Update product
+      responses:
+        '200':
+          description: Product updated
+
+    delete:
+      summary: Delete product
+      responses:
+        '200':
+          description: Product deleted
+
+  /cart:
+    get:
+      summary: View cart
+
+    post:
+      summary: Add item to cart
